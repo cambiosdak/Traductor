@@ -1,5 +1,5 @@
 const {Telegraf, Scenes:{WizardScene, Stage}, session} = require('telegraf')
-const bot = new Telegraf('5871182094:AAFfKGYZiSM4TC_5eF2I5YqQh5yLSdtwBCc')
+const bot = new Telegraf('YOUR TOKEN GOES HERE') // SET YOUR TOKEN
 const axios = require('axios')
 bot.start((ctx) => {
     ctx.reply('Hola, escribe /traducir para empezar :)')
