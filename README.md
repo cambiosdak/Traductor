@@ -9,7 +9,7 @@ npm install dom-parser axios telegraf
 ```
 - Set your own TOKEN API in ``index.js``
 - Run RUN.bat file
-- Send /traducir to start translating anything.
+- Send ``/traducir`` to start translating anything.
 ## References
 - [Axios](https://www.npmjs.com/package/axios)
 - [Telegraf](https://www.npmjs.com/package/telegraf)
